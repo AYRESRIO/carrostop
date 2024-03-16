@@ -1,4 +1,4 @@
-import Catalog from "./components/routes";
+import Catalog from "./routes/Catalog";
 
 export default function App() {
   return(
