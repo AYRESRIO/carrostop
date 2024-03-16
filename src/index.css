@@ -3,10 +3,11 @@
   --ct-color-bg-primary: #fff;
   --ct-color-bg-secondary: #F78B00;
   --ct-color-bg-terciary:#00285F;
+  --ct-color-bg-quaternary:#EDEDED;
   --ct-color-font-primary:#000000;
   --ct-color-font-secondary:#585858;
   --ct-color-font-terciary:#00285F;
-  --ct-color-font-quartenary:#FFFFFF;
+  --ct-color-font-quaternary:#FFFFFF;
   --ct-color-font-placeholder:#A7A7A7;
   
 }
